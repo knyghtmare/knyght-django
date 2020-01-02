@@ -1,1 +1,4 @@
-knyghtsite/__pycache__/
+knyghtsite/knyghtsite/__pycache__/
+knyghtsite/db.sqlite3
+knyghtsite/manage.py
+knyghtsite/knyghtsite/
