@@ -1,4 +1,5 @@
 knyghtsite/knyghtsite/__pycache__/
 knyghtsite/db.sqlite3
 knyghtsite/manage.py
-knyghtsite/knyghtsite/
+knyghtsite/main/__pycache__/
+knyghtsite/main/migrations/
