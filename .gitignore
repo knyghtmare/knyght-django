@@ -3,3 +3,5 @@ knyghtsite/db.sqlite3
 knyghtsite/manage.py
 knyghtsite/main/__pycache__/
 knyghtsite/main/migrations/
+knyghtsite/register/__pycache__/
+knyghtsite/register/migrations/
